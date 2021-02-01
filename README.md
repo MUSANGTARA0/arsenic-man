@@ -8,8 +8,8 @@
 
 <p align="center">
 <a href="https://github.com/mazdakpak">
-  <img hieght="200em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arsenic-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img hieght="200em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arsenic-man&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arsenic-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arsenic-man&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
